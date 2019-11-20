@@ -7,7 +7,7 @@ The web of answers
 > swipe the cover
 
 ## 原作
-![The Book of Answers by Carol Bolt](https://i.imgur.com/SpBZCrB.png)
+![The Book of Answers by Carol Bolt](https://i.imgur.com/SpBZCrB.png)  
 The Book of Answers by Carol Bolt
 
 ## License
