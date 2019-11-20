@@ -1,9 +1,9 @@
 The web of answers
 ===
-> 當你對程式有疑問時
-> When having questions to your code,
->
-> 翻開它，你會有意想不到的收穫
+> 當你對程式有疑問時  
+> When having questions to your code,  
+>   
+> 翻開它，你會有意想不到的收穫  
 > swipe the cover
 
 ## 原作
